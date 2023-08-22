@@ -1,3 +1,5 @@
 print("Hotel Management System")
 print("1. Add Customer")
 print("2. Delete Customer")
+print("3. Search Customer")
+print("4. Display all Customers")
