@@ -1,1 +1,1 @@
-print("Hote")
+print("Hotel Management System")
